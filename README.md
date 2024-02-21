@@ -1,3 +1,4 @@
+
 Select2
 =======
 ![Build Status][github-actions-image]
